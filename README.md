@@ -1,1 +1,1 @@
-This is the initial readme
+0x00. C - Hello, World
