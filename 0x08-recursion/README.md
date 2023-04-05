@@ -1,18 +1,20 @@
 ## Program Overview
 
-0-puts_recursion.c >> function that prints a string, followed by a new line
+[0. strcat](0-strcat.c)
 
-1-print_rev_recursion.c >> function that prints a string in reverse.
+[0-puts_recursion.c](./0-puts_recursion.c) >> function that prints a string, followed by a new line
 
-2-strlen_recursion.c >> function that returns the length of a string.
+[1-print_rev_recursion.c](./1-print_rev_recursion.c) >> function that prints a string in reverse.
 
-3-factorial.c >> function that returns the factorial of a given number.
+[2-strlen_recursion.c](./2-strlen_recursion.c) >> function that returns the length of a string.
 
-4-pow_recursion.c >> function that returns the value of x raised to the power of y.
+[3-factorial.c](./3-factorial.c) >> function that returns the factorial of a given number.
 
-5-sqrt_recursion.c >> function that returns the natural square root of a number.
+[4-pow_recursion.c](./4-pow_recursion.c) >> function that returns the value of x raised to the power of y.
 
-6-is_prime_number.c >> function that returns 1 if the input integer is a prime number, otherwise return 0.
+[5-sqrt_recursion.c](./5-sqrt_recursion.c) >> function that returns the natural square root of a number.
+
+[6-is_prime_number.c](./6-is_prime_number.c) >> function that returns 1 if the input integer is a prime number, otherwise return 0.
 
 ## Resouces
 
